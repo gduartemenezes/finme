@@ -1,5 +1,9 @@
 * {
     font-family: 'Nunito', sans-serif;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
 }
 
 .title-1 {
