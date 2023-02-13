@@ -1,7 +1,9 @@
 import React from 'react';
+import LandingPage from './components/LandingPage';
 
+import './styles/global.css'
 function App() {
-  return <></>
+  return <LandingPage/>
 }
 
 export default App;
